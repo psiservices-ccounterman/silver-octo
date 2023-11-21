@@ -1,0 +1,14 @@
+{
+  "name": "configurations",
+  "version": "1.0.0",
+  "description": "Scripts to handle configuration files",
+  "main": "base-to-settings-sources.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron-ssl-pinning": "^1.0.0",
+    "minimist": "^1.2.5",
+    "prettier": "^2.8.7"
+  }
+}
